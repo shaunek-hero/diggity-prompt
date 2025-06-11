@@ -1,7 +1,8 @@
-# zap-prompt
-A simple theme to use with zap
+# diggity-prompt
+A simple zsh theme for Shaun.
 <br>
 <br>
-It renders the zap-prompt (⚡ ➜) followed by the CWD followed by VCS info (if in a repo directory) 
+It renders the CWD followed by, some chevron chars, Git VCS info (if in a repo directory), and the execution time.
 
-![Screenshot from 2023-01-04 11-30-45](https://user-images.githubusercontent.com/84301852/210493582-06808d38-62aa-47b1-a9a9-7b6c25d7620b.png)
+# Credits
+A simple theme based off off [zap-prompt](https://https://github.com/zap-zsh/zap-prompt) by zap-zsh. The style was inspired by the sorin theme in zprezto, and some inspiration was also pulled from [singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt).
